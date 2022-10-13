@@ -17,8 +17,8 @@
   "app_lovin_full_id":"7a9a0c6f60f0429f",
   "app_lovin_native_id":"6804ed9c25be2b01",
   "app_lovin_merc_id":"3b1bf785c0973c3d",
-  "adType": "fb",
-  "adStatus": "admob",
+  "adType": "admob",
+  "adStatus":"admob",
   "is_vpn": "yes",
   "adMobTime":10
 }
