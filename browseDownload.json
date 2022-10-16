@@ -20,5 +20,8 @@
   "adType": "applovin",
   "adStatus":"admob",
   "is_vpn": "yes",
+  "vpnCountry":"us",
+  "vpnUrl":"https://d1ex46a0eaqlz9.cloudfront.net",
+  "vpncarrierId":"touchvpn",
   "adMobTime":10
 }
