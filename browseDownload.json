@@ -23,5 +23,6 @@
   "vpnCountry":"us",
   "vpnUrl":"https://d1ex46a0eaqlz9.cloudfront.net",
   "vpncarrierId":"touchvpn",
+  "extrScreen": "yes",
   "adMobTime":10
 }
