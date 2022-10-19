@@ -20,9 +20,9 @@
   "adType": "admob",
   "adStatus":"admob",
   "is_vpn": "yes",
-  "vpnCountry":"us",
+  "vpnCountry":"ch",
   "vpnUrl":"https://d1ex46a0eaqlz9.cloudfront.net",
   "vpncarrierId":"touchvpn",
   "extrScreen": "yes",
-  "adMobTime":15
+  "adMobTime":2
 }
