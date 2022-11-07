@@ -19,7 +19,7 @@
   "app_lovin_merc_id":"a9037199ba2e0ff0",
   "adType": "applovin",
   "adStatus":"admob",
-  "is_vpn": "yes",
+  "is_vpn": "no",
   "vpnCountry":"us",
   "vpnUrl":"https://d1ex46a0eaqlz9.cloudfront.net",
   "vpncarrierId":"touchvpn",
