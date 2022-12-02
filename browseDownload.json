@@ -26,15 +26,15 @@
   "extrScreen": "yes",
   "adMobTime":10,
   "location": [
-				{
-					"countryName":"India"
-				},
-				{
-					"countryName":"Nepal"
-				},
-				{
-					"countryName":"Bangladesh"
-				}
+		{
+		   "countryName":"India"
+		},
+		{
+		   "countryName":"Nepal"
+		},
+		{
+		   "countryName":"Bangladesh"
+		}
   ],
 	"vpnBtn":"yes"
 }
