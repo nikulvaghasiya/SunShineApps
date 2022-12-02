@@ -1,34 +1,40 @@
 {
   "error": false,
-  "isNewApp": false,
+  "isNewApp":false,
   "app_pkg": "nk.tubemusic.musicdownloader",
-  "fbBannr": "967922680456368_967923313789638",
+   "fbBannr": "967922680456368_967923313789638",
   "fbInter": "967922680456368_967923410456295",
   "fbNative": "967922680456368_967923573789612",
   "fbNativeBnnr": "967922680456368_967923573789612",
   "AdmobBannr": "/22678886094/webbrowserdownloader.allvideodownloader.fullhdmoviedownloader_banner_afcr",
   "AdmobInter": "/22678886094/webbrowserdownloader.allvideodownloader.fullhdmoviedownloader_interstitial_afcr",
-  "AdmobInterSplash": "/22678886094/webbrowserdownloader.allvideodownloader.fullhdmoviedownloader_interstitial_afcr",
+  "AdmobInterSplash":"/22678886094/webbrowserdownloader.allvideodownloader.fullhdmoviedownloader_interstitial_afcr",
   "AdmobNative": "/22678886094/webbrowserdownloader.allvideodownloader.fullhdmoviedownloader_native_afcr",
   "AdmobOpenAds": "ca-app-pub-3940256099942544/3419835294",
   "admob_pub_id": "pub-3380634588464539a",
   "admob_app_id": "ca-app-pub-3940256099942544~3347511713a",
-  "app_lovin_bnner_id": "4e18985c151c7265",
-  "app_lovin_full_id": "6c4a94a6f58bc1f5",
-  "app_lovin_native_id": "b9d8896ddbe66711",
-  "app_lovin_merc_id": "a9037199ba2e0ff0",
+  "app_lovin_bnner_id":"4e18985c151c7265",
+  "app_lovin_full_id":"6c4a94a6f58bc1f5",
+  "app_lovin_native_id":"b9d8896ddbe66711",
+  "app_lovin_merc_id":"a9037199ba2e0ff0",
   "adType": "applovin",
-  "adStatus": "admob",
+  "adStatus":"admob",
   "is_vpn": "no",
-  "vpnCountry": "us",
-  "vpnUrl": "https://d1ex46a0eaqlz9.cloudfront.net",
-  "vpncarrierId": "touchvpn",
+  "vpnCountry":"us",
+  "vpnUrl":"https://d1ex46a0eaqlz9.cloudfront.net",
+  "vpncarrierId":"touchvpn",
   "extrScreen": "yes",
-  "adMobTime": 10,
+  "adMobTime":10,
   "location": [
-    "India",
-    "Pakistan",
-    "Nepal"
+				{
+					"countryName":"India"
+				},
+				{
+					"countryName":"Nepal"
+				},
+				{
+					"countryName":"Bangladesh"
+				}
   ],
-  "vpnBtn": "yes"
+	"vpnBtn":"yes"
 }
